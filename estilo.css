@@ -1,0 +1,29 @@
+body {
+    color:rgb(1, 15, 28)
+    
+}
+body{
+    background:slateblue;
+}
+header {
+    border: solid 2px rgb(61, 38, 63);
+}
+header {
+    border-bottom: solid 2px rgb(61, 38, 63);
+    padding: 20px;
+    font-size: 32px;
+}
+body {
+    color:rgb(1, 15, 28);
+    background: slateblue;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  }
+  body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  }
+  
+ 
